@@ -1,36 +1,49 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Horizontrek — Web Experience
 
-## Getting Started
+A redesigned web experience for an adventure travel platform focused on improving clarity, exploration, and user engagement.
 
-First, run the development server:
+Problem
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Most travel platforms present a large amount of information but fail to guide users toward action. Users often face unclear navigation, weak content structure, and no clear next step, which leads to low engagement and poor conversion.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Approach
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+This project was approached as a product and user experience problem rather than just a visual redesign. The focus was on making value clear quickly, structuring content to guide users, and reducing friction in decision-making.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+What I Built
 
-## Learn More
+Structured landing experience with clear information hierarchy
+Improved navigation and content segmentation
+Visual storytelling for destinations and experiences
+Clear call-to-action placement to guide user actions
 
-To learn more about Next.js, take a look at the following resources:
+Key Focus Areas
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Positioning clarity
+User journey design
+Information hierarchy
+Engagement through structured interaction
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Rebranding and Iteration
 
-## Deploy on Vercel
+This project was later reworked and rebranded as Horizontrek to better reflect a structured product approach and improved user experience. The current version represents a refined iteration focused on clarity and flow.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Learnings
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Small changes in structure and messaging significantly impact how users understand a product. Good design is not just visual; it is about guiding user decisions. Most product issues are fundamentally clarity and flow problems.
+
+If Continued Further
+
+Personalized recommendations based on user behavior
+Guided exploration journeys for users
+Improved conversion flows (booking, sign-ups)
+Integration with analytics to track engagement
+
+Note
+
+This is a prototype project created to explore and demonstrate improvements in product experience, structure, and engagement.
+
+This project is part of Horizontrek, consisting of:
+
+Web Experience (user-facing)
+Dashboard (control and management layer)
